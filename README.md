@@ -18,7 +18,21 @@ Notes
 - Workbooks use Power Pivot for aggregation — refresh the Data Model to update visuals.
 - Avoid committing sensitive or personally identifiable data. Use anonymized sample data if needed.
 
-Files (example)
+### Excel DashBoard Overview
+
+  1.
+    <img width="1870" height="739" alt="1 Img" src="https://github.com/user-attachments/assets/a4e4fd3a-485c-4d2a-8432-040f1268687e" />
+
+
+  2.
+    <img width="1805" height="670" alt="Screenshot 2025-10-23 171701" src="https://github.com/user-attachments/assets/b9b84d3c-9cef-4d5a-a184-4081d06e9139" />
+
+
+  3.
+    <img width="1793" height="673" alt="Screenshot 2025-10-23 171720" src="https://github.com/user-attachments/assets/695e0825-063b-49d2-b2e7-234589797215" />
+
+
+Files 
 - Debt-Analysis.xlsx — main workbook with dashboards and city/state sheets
 - README.md — this file
 
